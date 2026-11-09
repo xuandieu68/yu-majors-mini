@@ -2,33 +2,34 @@
   "questions": [
     {
       "id": "interest",
-      "text": "Bạn thích làm việc với điều gì nhất?",
+      "text": { "vi": "Bạn thích tìm hiểu về điều gì nhất?", "ko": "가장 관심 있는 것은 무엇인가요?" },
       "options": [
-        { "label": "Ngôn ngữ, văn hóa, con người", "score": { "humanities": 2, "social": 1 } },
-        { "label": "Con số, công thức, thí nghiệm", "score": { "science": 2, "engineering": 1 } },
-        { "label": "Máy móc, công trình, công nghệ", "score": { "engineering": 2, "science": 1 } },
-        { "label": "Vẽ, thiết kế, biểu diễn", "score": { "arts": 2, "humanities": 1 } },
-        { "label": "Xã hội, chính sách, tâm lý", "score": { "social": 2, "humanities": 1 } }
+        { "label": { "vi": "Ngôn ngữ, văn hóa, lịch sử", "ko": "언어·문화·역사" }, "score": { "humanities": 3, "social": 1 } },
+        { "label": { "vi": "Kinh doanh, xã hội, chính sách", "ko": "경영·사회·정책" }, "score": { "social": 3, "humanities": 1 } },
+        { "label": { "vi": "Tự nhiên, sinh học, thực phẩm, sức khỏe", "ko": "자연·생명·식품·건강" }, "score": { "science": 3, "engineering": 1 } },
+        { "label": { "vi": "Máy tính, máy móc, công trình", "ko": "컴퓨터·기계·건설" }, "score": { "engineering": 3, "science": 1 } },
+        { "label": { "vi": "Mỹ thuật, thiết kế, âm nhạc, thể thao", "ko": "미술·디자인·음악·체육" }, "score": { "arts": 3, "humanities": 1 } }
       ]
     },
     {
       "id": "style",
-      "text": "Bạn học tốt nhất theo cách nào?",
+      "text": { "vi": "Bạn học tốt nhất theo cách nào?", "ko": "어떤 방식으로 공부할 때 가장 즐겁나요?" },
       "options": [
-        { "label": "Đọc và viết nhiều", "score": { "humanities": 1, "social": 1 } },
-        { "label": "Giải bài tập, phân tích dữ liệu", "score": { "science": 1, "engineering": 1 } },
-        { "label": "Tự tay làm ra sản phẩm", "score": { "arts": 1, "engineering": 1 } }
+        { "label": { "vi": "Đọc, viết, thảo luận", "ko": "읽기·쓰기·토론" }, "score": { "humanities": 2, "social": 2 } },
+        { "label": { "vi": "Thí nghiệm, quan sát, phân tích số liệu", "ko": "실험·관찰·데이터 분석" }, "score": { "science": 2, "engineering": 1 } },
+        { "label": { "vi": "Lập trình, thiết kế kỹ thuật, làm mô hình", "ko": "프로그래밍·설계·모델 제작" }, "score": { "engineering": 2, "science": 1 } },
+        { "label": { "vi": "Thực hành sáng tạo, biểu diễn, vận động", "ko": "창작·공연·신체 활동" }, "score": { "arts": 2 } }
       ]
     },
     {
       "id": "career",
-      "text": "Sau khi tốt nghiệp, bạn muốn làm gì?",
+      "text": { "vi": "Sau khi tốt nghiệp, bạn muốn làm việc ở đâu?", "ko": "졸업 후 어디에서 일하고 싶나요?" },
       "options": [
-        { "label": "Giáo viên, phiên dịch, biên tập", "score": { "humanities": 2 } },
-        { "label": "Công chức, nhà tư vấn, nhà báo", "score": { "social": 2 } },
-        { "label": "Nghiên cứu viên, chuyên viên dữ liệu", "score": { "science": 2 } },
-        { "label": "Kỹ sư, chuyên gia xây dựng – môi trường", "score": { "engineering": 2 } },
-        { "label": "Họa sĩ, nhà thiết kế, nghệ sĩ", "score": { "arts": 2 } }
+        { "label": { "vi": "Trường học, nhà xuất bản, phiên dịch", "ko": "학교·출판·통번역" }, "score": { "humanities": 3 } },
+        { "label": { "vi": "Công ty, ngân hàng, cơ quan nhà nước", "ko": "기업·금융·공공기관" }, "score": { "social": 3 } },
+        { "label": { "vi": "Viện nghiên cứu, bệnh viện, công ty thực phẩm", "ko": "연구소·병원·식품 기업" }, "score": { "science": 3 } },
+        { "label": { "vi": "Công ty công nghệ, nhà máy, công trường", "ko": "IT 기업·공장·건설 현장" }, "score": { "engineering": 3 } },
+        { "label": { "vi": "Studio, công ty thiết kế, sân khấu, CLB thể thao", "ko": "스튜디오·디자인 회사·공연·스포츠" }, "score": { "arts": 3 } }
       ]
     }
   ]
