@@ -1,0 +1,514 @@
+{
+  "source": "https://www.yu.ac.kr/main/academics/university.do",
+  "copyright": "Nội dung gốc © Yeungnam University / 원문 저작권: 영남대학교",
+  "departments": [
+    {
+      "id": "korean",
+      "field": "humanities",
+      "college": {
+        "ko": "인문대학",
+        "vi": "Xã hội Nhân văn"
+      },
+      "name": {
+        "ko": "국어국문학과",
+        "vi": "Khoa ngữ văn"
+      },
+      "slogan": {
+        "ko": "다문화시대 한국어문학 인재 양성",
+        "vi": "Đào tạo nhân tài ngôn ngữ và văn học Hàn Quốc trong thời đại đa văn hóa"
+      },
+      "description": {
+        "ko": "영남대학교 국어국문학과는 민족의 얼이 담긴 우리말과 그 말을 표현수단으로 하여 이루어진 문학작품을 연구하고 교육하며, 그것을 통해 사회에 봉사하고자 하는 것을 목표로 합니다. 이를 위해 국어학, 고전문학, 현대문학의 3대 기본영역의 학문적 기초를 바탕으로 외국어로서의 한국어교육, 스토리텔링, 문예창작 등 실용적 분야로의 접목을 추구합니다. 이를 통해 국어국문학의 교육과 연구에 종사할 수 있는 전문인은 물론, 다문화시대 한국어문학 인재를 양성하고 있습니다.",
+        "vi": "Khoa Ngữ văn của Đại học Yeungnam nghiên cứu và giảng dạy tiếng Hàn – ngôn ngữ chứa đựng tâm hồn dân tộc – và các tác phẩm văn học sử dụng ngôn ngữ đó làm phương tiện biểu đạt, qua đó hướng tới phục vụ xã hội. Trên nền tảng học thuật của ba lĩnh vực cơ bản là ngôn ngữ học tiếng Hàn, văn học cổ điển và văn học hiện đại, khoa kết hợp với các lĩnh vực thực tiễn như giảng dạy tiếng Hàn như một ngoại ngữ, kể chuyện (storytelling) và sáng tác văn học. Nhờ đó, khoa đào tạo không chỉ những chuyên gia làm việc trong giáo dục và nghiên cứu ngữ văn Hàn Quốc, mà còn cả nhân tài ngôn ngữ – văn học Hàn Quốc của thời đại đa văn hóa."
+      },
+      "careers": [
+        {
+          "category": "Giáo dục, nghiên cứu",
+          "detail": "Giáo viên trung học cơ sở và phổ thông, giảng viên đại học, nghiên cứu viên, giảng viên trung tâm, giáo viên dạy tiếng Hàn cho người nước ngoài…"
+        },
+        {
+          "category": "Báo chí, xuất bản",
+          "detail": "Phóng viên báo chí và truyền hình, biên tập viên, nhân viên lên kế hoạch xuất bản…"
+        },
+        {
+          "category": "Nhà văn",
+          "detail": "Nhà thơ, tiểu thuyết gia, biên kịch phim truyền hình…"
+        },
+        {
+          "category": "Công chức",
+          "detail": "Công chức hành chính giáo dục, công chức lập pháp, công chức tòa án, cán bộ quản lý hành chính nhà nước…"
+        }
+      ],
+      "official": "https://www.yu.ac.kr/main/academics/korean.do"
+    },
+    {
+      "id": "japan",
+      "field": "humanities",
+      "college": {
+        "ko": "인문대학",
+        "vi": "Xã hội Nhân văn"
+      },
+      "name": {
+        "ko": "일어일문학과",
+        "vi": "Ngôn ngữ và Văn học Nhật"
+      },
+      "slogan": {
+        "ko": "일본에 대한 이해부터, 나아가 교류까지! 일본 전문가 양성",
+        "vi": "Từ hiểu về Nhật Bản đến giao lưu với Nhật Bản! Đào tạo chuyên gia về Nhật Bản"
+      },
+      "description": {
+        "ko": "1979년 일어교육학과로 창설된 후 2005년도에 일어일문학과로 변경하여 현재에 이르고 있습니다. 국제화·개방화 시대의 요구에 따라 일본어학과 일본 문학을 체계적으로 이해하고, 일본문화에 대한 폭넓은 이해를 바탕으로 학문적 시야를 넓히며, 일본과의 교류에 이바지할 인재를 양성합니다. 더 나아가 21세기 국제화 시대에 요구되는 국제적인 지식과 안목을 갖춘 전문가와 국내·외에서 필요로 하는 인재를 양성하는 것을 교육목표로 삼고 있습니다.",
+        "vi": "Khoa được thành lập năm 1979 với tên Khoa Sư phạm tiếng Nhật, đến năm 2005 đổi thành Khoa Ngôn ngữ và Văn học Nhật như hiện nay. Đáp ứng yêu cầu của thời đại quốc tế hóa và mở cửa, khoa đào tạo nhân tài hiểu một cách hệ thống về ngôn ngữ học và văn học Nhật Bản, mở rộng tầm nhìn học thuật dựa trên hiểu biết sâu rộng về văn hóa Nhật Bản, và đóng góp cho giao lưu với Nhật Bản. Hơn nữa, mục tiêu giáo dục của khoa là đào tạo chuyên gia có kiến thức và tầm nhìn quốc tế mà thời đại toàn cầu hóa thế kỷ 21 đòi hỏi, cũng như nhân tài cần thiết ở trong và ngoài nước."
+      },
+      "careers": [
+        {
+          "category": "Lĩnh vực nghề nghiệp",
+          "detail": "Cơ quan công trong và ngoài nước, lĩnh vực thương mại, ngoại giao, du lịch, giáo dục, doanh nghiệp IT Nhật Bản hoặc ngành du lịch tại Nhật, giáo viên, phiên dịch viên, nhà xuất bản, biên dịch viên, du lịch, hàng không, marketing văn hóa…"
+        }
+      ],
+      "official": "https://www.yu.ac.kr/main/academics/japan.do"
+    },
+    {
+      "id": "engl",
+      "field": "humanities",
+      "college": {
+        "ko": "인문대학",
+        "vi": "Xã hội Nhân văn"
+      },
+      "name": {
+        "ko": "영어영문학과",
+        "vi": "Ngôn ngữ và Văn học Anh"
+      },
+      "slogan": {
+        "ko": "세계공용어 영어! 글로벌 세계관을 만나다",
+        "vi": "Tiếng Anh – ngôn ngữ chung của thế giới! Mở ra thế giới quan toàn cầu"
+      },
+      "description": {
+        "ko": "여러분은 영문학을 통해 수많은 작품의 의미와 문화적 맥락을 접하면서 영미 문화와 사회를 이해하고, 영어학을 통해 영어라는 언어에 관한 과학적이고 체계적인 전문 지식을 습득하며, 영어교육을 통해 영어교육자의 자질을 기르고, 원어민 교수진이 가르치는 영어 말하기와 쓰기 교과목을 통해 영어 구사력을 함양할 수 있습니다. 1947년에 설립되어 역사와 전통을 자랑하는 영어영문학과는 훌륭한 교수진과 체계적인 교육과정, 다양한 학생 지원 프로그램을 갖추고 경제계, 문화예술계, 언론계, 교육계 등 다양한 분야로 졸업생들을 배출해 왔습니다. 졸업생들은 국영기업체, 대기업, 외국인 기업체에서 일하거나 방송국 PD, 아나운서, 기자, 극작가, 교수, 교사, 승무원, 공무원, 법조인 등으로 활동하고 있습니다.",
+        "vi": "Qua văn học Anh, bạn sẽ tiếp xúc với ý nghĩa và bối cảnh văn hóa của vô số tác phẩm để hiểu văn hóa và xã hội Anh – Mỹ; qua ngôn ngữ học tiếng Anh, bạn sẽ có kiến thức chuyên môn khoa học và hệ thống về tiếng Anh; qua giáo dục tiếng Anh, bạn bồi dưỡng phẩm chất của nhà giáo dục; và qua các môn nói, viết do giảng viên bản ngữ giảng dạy, bạn nâng cao khả năng sử dụng tiếng Anh. Thành lập năm 1947 với bề dày lịch sử và truyền thống, khoa có đội ngũ giảng viên xuất sắc, chương trình học bài bản và nhiều chương trình hỗ trợ sinh viên, đã đào tạo cựu sinh viên làm việc trong nhiều lĩnh vực như kinh tế, văn hóa nghệ thuật, báo chí, giáo dục. Cựu sinh viên đang làm việc tại doanh nghiệp nhà nước, tập đoàn lớn, doanh nghiệp nước ngoài hoặc hoạt động với vai trò PD đài truyền hình, phát thanh viên, phóng viên, nhà viết kịch, giảng viên, giáo viên, tiếp viên, công chức, luật gia…"
+      },
+      "careers": [
+        {
+          "category": "",
+          "detail": "Giảng viên đại học, giảng viên, giáo viên, nhà phê bình văn hóa, nhà tổ chức biểu diễn, nhà viết kịch, ngành tài chính, ngành phân phối, ngành thương mại, tòa soạn báo, đài truyền hình, nhà văn, luật gia…"
+        }
+      ],
+      "official": "https://www.yu.ac.kr/main/academics/engl.do"
+    },
+    {
+      "id": "math",
+      "field": "science",
+      "college": {
+        "ko": "자연과학대학",
+        "vi": "Khoa học Tự nhiên"
+      },
+      "name": {
+        "ko": "수학과",
+        "vi": "Khoa Toán"
+      },
+      "slogan": {
+        "ko": "다양한 분야의 문제 해결에 수학적 논리를 적용할 수 있는 융합적 인재 양성",
+        "vi": "Đào tạo nhân tài liên ngành có thể áp dụng tư duy toán học để giải quyết vấn đề trong nhiều lĩnh vực"
+      },
+      "description": {
+        "ko": "수학은 다양한 수학적 대상을 뜨거운 창의성과 차가운 논리로 표현해주는 과학의 언어입니다. 고도로 정밀화된 현대 사회의 거의 모든 분야에서 수학적 논리에 대한 수요가 증가하고 있습니다. 특히 4차 산업혁명이 가속화됨에 따라, 알고리즘 개발에 있어서 그 수요는 점점 더 커지고 있습니다. 우리 수학과는 이러한 사회적 수요에 부응하는 창의적이고 논리적인 인재의 양성을 목표로 합니다.",
+        "vi": "Toán học là ngôn ngữ của khoa học, biểu đạt các đối tượng toán học đa dạng bằng sự sáng tạo nồng nhiệt và tư duy logic lạnh lùng. Trong hầu hết mọi lĩnh vực của xã hội hiện đại được chính xác hóa cao độ, nhu cầu về tư duy toán học ngày càng tăng. Đặc biệt khi Cách mạng công nghiệp 4.0 tăng tốc, nhu cầu này trong phát triển thuật toán ngày càng lớn. Khoa Toán đặt mục tiêu đào tạo nhân tài sáng tạo và logic đáp ứng nhu cầu đó của xã hội."
+      },
+      "careers": [
+        {
+          "category": "Lĩnh vực giáo dục",
+          "detail": "Giảng viên đại học, giáo viên, giảng viên trung tâm…"
+        },
+        {
+          "category": "Chính phủ và cơ quan công",
+          "detail": "Tổng cục Thuế quốc gia, Sở Cảnh sát tỉnh Gyeongbuk, công chức, Viện Chính sách Khoa học và Công nghệ…"
+        },
+        {
+          "category": "Tổ chức tài chính và công ty bảo hiểm",
+          "detail": "Woori Bank, Daegu Bank, IBK (Ngân hàng Doanh nghiệp), Samsung Fire & Marine, Hyundai Marine & Fire…"
+        },
+        {
+          "category": "Doanh nghiệp thông thường",
+          "detail": "LG Electronics, KT, POSCO…"
+        }
+      ],
+      "official": "https://www.yu.ac.kr/main/academics/math.do"
+    },
+    {
+      "id": "sta",
+      "field": "science",
+      "college": {
+        "ko": "자연과학대학",
+        "vi": "Khoa học Tự nhiên"
+      },
+      "name": {
+        "ko": "통계학과",
+        "vi": "Khoa Thống kê"
+      },
+      "slogan": {
+        "ko": "데이터 속에 숨은 사람과 세상의 비밀을 발견하는 차세대 데이터분석 전문가 양성",
+        "vi": "Đào tạo chuyên gia phân tích dữ liệu thế hệ mới, khám phá bí mật về con người và thế giới ẩn trong dữ liệu"
+      },
+      "description": {
+        "ko": "통계학은 데이터 수집과정을 설계하고 데이터를 요약, 설명하며 결론 혹은 일반성을 이끌어내는데 쓰이는 원리와 방법을 다루는 학문입니다. 통계학은 오늘날 자연과학, 의학, 공학, 사회과학 등 거의 모든 학문분야와 산업체에서 폭넓게 활용되고 있으며 4차혁명 시대를 맞아 빅데이터 분석 관련 분야를 위시하여 그 적용분야가 더욱 확대되고 보편화되고 있습니다. 영남대학교 통계학과는 1981년 설립 이래 통계학의 학문적 기반을 구축케 하고 올바른 데이터수집 능력과 다양한 데이터분석 방법을 습득시켜 4차혁명 시대를 선도하는 인재를 양성하는 것을 목표로 합니다.",
+        "vi": "Thống kê học là ngành nghiên cứu các nguyên lý và phương pháp thiết kế quá trình thu thập dữ liệu, tóm tắt, mô tả dữ liệu và rút ra kết luận hay tính khái quát. Ngày nay thống kê được ứng dụng rộng rãi trong hầu hết các ngành học và doanh nghiệp như khoa học tự nhiên, y học, kỹ thuật, khoa học xã hội; và trong thời đại Cách mạng 4.0, phạm vi ứng dụng càng mở rộng và phổ biến, đặc biệt là lĩnh vực phân tích dữ liệu lớn. Từ khi thành lập năm 1981, Khoa Thống kê của Đại học Yeungnam đặt mục tiêu xây dựng nền tảng học thuật về thống kê, giúp sinh viên có năng lực thu thập dữ liệu đúng đắn và nắm vững các phương pháp phân tích dữ liệu đa dạng, đào tạo nhân tài dẫn đầu thời đại Cách mạng 4.0."
+      },
+      "careers": [
+        {
+          "category": "Tài chính",
+          "detail": "Hana Bank, KDB (Ngân hàng Phát triển Hàn Quốc), NongHyup, Kyobo Life…"
+        },
+        {
+          "category": "Tổng công ty, doanh nghiệp nhà nước",
+          "detail": "Korea Real Estate Board, Cơ quan Xã hội Thông tin Trí tuệ Quốc gia, Tổng công ty Đất đai và Nhà ở Hàn Quốc (LH), Tổng công ty Đường sắt Hàn Quốc (Korail)…"
+        },
+        {
+          "category": "Công chức",
+          "detail": "Cục Thống kê Hàn Quốc, Tổng cục Thuế quốc gia, Chính quyền tỉnh Gyeongbuk…"
+        },
+        {
+          "category": "IT",
+          "detail": "Nexon, NICE Information Service…"
+        }
+      ],
+      "official": "https://www.yu.ac.kr/main/academics/sta.do"
+    },
+    {
+      "id": "physics",
+      "field": "science",
+      "college": {
+        "ko": "자연과학대학",
+        "vi": "Khoa học Tự nhiên"
+      },
+      "name": {
+        "ko": "물리학과",
+        "vi": "Khoa Vật lý"
+      },
+      "slogan": {
+        "ko": "반도체/에너지·광/디스플레이·의학물리 분야를 선도할 인재 양성",
+        "vi": "Đào tạo nhân tài dẫn đầu các lĩnh vực bán dẫn / năng lượng – quang học / màn hình – vật lý y khoa"
+      },
+      "description": {
+        "ko": "물리학은 다양한 자연현상에 대한 기존의 지식을 바탕으로 새로운 지식 혹은 응용기술의 개발을 추구하는 학문입니다. 물리학과는 1968년에 설립되어 현재까지 다양한 교육부 지원사업(지방대학특성화, 그린에너지 인재양성, LINC 및 LINC+, CK, 프라임, BK21 등)을 운영하여왔습니다. 특히, 영남대학교병원의 방사선종양학과 및 신경외과와 협력하여 다수의 의학물리사(medical physicists) 및 의과대학 임상교수를 배출하는 등 반도체/에너지, 광/디스플레이, 의학물리 분야로의 특성화를 성공적으로 이루어왔습니다. 영남대학교 물리학과는 이러한 특성화분야의 교육 및 연구를 위한 인적 및 물적 기반을 잘 갖추고 있습니다.",
+        "vi": "Vật lý học là ngành theo đuổi việc phát triển tri thức mới hoặc công nghệ ứng dụng dựa trên kiến thức sẵn có về các hiện tượng tự nhiên đa dạng. Khoa Vật lý được thành lập năm 1968 và đến nay đã vận hành nhiều dự án do Bộ Giáo dục hỗ trợ (đặc thù hóa đại học địa phương, đào tạo nhân tài năng lượng xanh, LINC và LINC+, CK, PRIME, BK21…). Đặc biệt, khi hợp tác với Khoa Xạ trị Ung thư và Khoa Ngoại thần kinh của Bệnh viện Đại học Yeungnam, khoa đã đào tạo nhiều nhà vật lý y khoa (medical physicists) và giảng viên lâm sàng của trường y, đặc thù hóa thành công trong các lĩnh vực bán dẫn / năng lượng, quang học / màn hình và vật lý y khoa. Khoa có nền tảng nhân lực và cơ sở vật chất tốt cho giáo dục và nghiên cứu trong các lĩnh vực đặc thù này."
+      },
+      "careers": [
+        {
+          "category": "Tập đoàn lớn",
+          "detail": "LG Display, LG Electronics, Heesung Electronics, Samsung Electronics, Samsung Mobile Display, Samsung Optical Communications, Asiana Airlines, Woongjin Polysilicon, SL, Kumho Electric, Haitai, SK Hynix…"
+        },
+        {
+          "category": "Doanh nghiệp vừa",
+          "detail": "Avatec, Applied Materials Korea, LB Lusem, Lam Research Korea, Youngshin Electric, Delphi Korea, Pro Optics…"
+        },
+        {
+          "category": "Cơ quan quốc gia và công lập",
+          "detail": "Viện Nghiên cứu Năng lượng Nguyên tử Hàn Quốc, KT&G, Tổng công ty Tàu điện ngầm Seoul, Daegu Techno Park, Bộ Quốc phòng (sĩ quan), sở cứu hỏa…"
+        },
+        {
+          "category": "Học lên cao",
+          "detail": "KAIST, DGIST, GIST (Viện Khoa học và Công nghệ Gwangju), UST (Đại học Khoa học và Công nghệ), du học nước ngoài…"
+        }
+      ],
+      "official": "https://www.yu.ac.kr/main/academics/physics.do"
+    },
+    {
+      "id": "civil",
+      "field": "engineering",
+      "college": {
+        "ko": "공과대학",
+        "vi": "Kỹ thuật"
+      },
+      "name": {
+        "ko": "건설시스템공학과",
+        "vi": "Kỹ thuật Hệ thống Xây dựng"
+      },
+      "slogan": {
+        "ko": "자연과 문명의 조화, 아름다운 세상의 건설",
+        "vi": "Hài hòa thiên nhiên và văn minh, xây dựng một thế giới tươi đẹp"
+      },
+      "description": {
+        "ko": "건설시스템공학과는 1950년 설립 이후 구조공학, 수자원 및 환경공학, 토질 및 도로공학을 비롯한 다양한 최첨단 스마트 건설기술과 다학제적인 접근방식을 접목한 교육을 실시하고 있으며, 실무기술과 현장적응력을 갖춘 고급 엔지니어링 양성을 목표로 하고 있습니다.",
+        "vi": "Từ khi thành lập năm 1950, Khoa Kỹ thuật Hệ thống Xây dựng đào tạo kết hợp nhiều công nghệ xây dựng thông minh tiên tiến với cách tiếp cận liên ngành, bao gồm kỹ thuật kết cấu, tài nguyên nước và môi trường, địa kỹ thuật và kỹ thuật đường bộ, với mục tiêu đào tạo kỹ sư trình độ cao có kỹ năng thực tiễn và khả năng thích ứng với hiện trường."
+      },
+      "careers": [
+        {
+          "category": "Khu vực tư nhân",
+          "detail": "Xây dựng, thiết kế, thi công, bảo trì…"
+        },
+        {
+          "category": "Khu vực công",
+          "detail": "Công chức chính phủ trung ương và chính quyền địa phương (ngạch xây dựng dân dụng)"
+        },
+        {
+          "category": "Tổng công ty và cơ quan công",
+          "detail": "Tổng công ty Đường cao tốc Hàn Quốc, Tổng công ty Tài nguyên nước Hàn Quốc, Tổng công ty Đất đai và Nhà ở Hàn Quốc, Tổng công ty Nông thôn Hàn Quốc, Cơ quan Đường sắt Quốc gia Hàn Quốc, Cơ quan Hạ tầng Đường sắt Hàn Quốc, Công ty Thủy điện và Điện hạt nhân Hàn Quốc (KHNP)…"
+        },
+        {
+          "category": "Viện nghiên cứu",
+          "detail": "Viện Công nghệ Xây dựng Hàn Quốc, Viện Nghiên cứu Định cư Con người Hàn Quốc, Viện Nghiên cứu Thiên tai Quốc gia, Viện Nghiên cứu Giao thông Đường bộ…"
+        }
+      ],
+      "official": "https://www.yu.ac.kr/main/academics/civil.do"
+    },
+    {
+      "id": "enveng",
+      "field": "engineering",
+      "college": {
+        "ko": "공과대학",
+        "vi": "Kỹ thuật"
+      },
+      "name": {
+        "ko": "환경공학과",
+        "vi": "Kỹ thuật Môi trường"
+      },
+      "slogan": {
+        "ko": "수질, 대기, 폐기물, 토양을 아우르는 환경 분야의 실무형 인재 양성",
+        "vi": "Đào tạo nhân tài thực tiễn trong lĩnh vực môi trường, bao gồm nước, không khí, chất thải và đất"
+      },
+      "description": {
+        "ko": "우리 환경공학과는 수질관리 연구실, 대기환경 연구실, 유해폐기물처리 연구실, 상수처리 연구실, 환경미생물 연구실, 환경에어로졸공학 연구실, 토양 및 지하수 연구실, 환경자원화 연구실 등으로 구성되어 환경공학에서 요구되는 모든 분야에 충실을 기하고 있습니다. 특히 각 연구실 단위로 운영되는 실험실의 실습형 시설 및 기기장비의 확충에 끊임없는 노력을 기울여 현재 기초장비 뿐만 아니라 고가의 첨단 분석 장비까지 두루 갖춤으로써 학생들의 교육과 실습에 많은 노력을 기울이고 있습니다.",
+        "vi": "Khoa Kỹ thuật Môi trường gồm các phòng nghiên cứu: quản lý chất lượng nước, môi trường không khí, xử lý chất thải nguy hại, xử lý nước cấp, vi sinh vật môi trường, kỹ thuật sol khí môi trường, đất và nước ngầm, tái chế tài nguyên môi trường…, đáp ứng đầy đủ mọi lĩnh vực mà kỹ thuật môi trường đòi hỏi. Đặc biệt, khoa không ngừng mở rộng cơ sở thực hành và thiết bị ở các phòng thí nghiệm của từng phòng nghiên cứu, hiện được trang bị không chỉ thiết bị cơ bản mà cả thiết bị phân tích tiên tiến đắt tiền, dành nhiều nỗ lực cho việc học và thực hành của sinh viên."
+      },
+      "careers": [],
+      "official": "https://www.yu.ac.kr/main/academics/enveng.do"
+    },
+    {
+      "id": "urban",
+      "field": "engineering",
+      "college": {
+        "ko": "공과대학",
+        "vi": "Kỹ thuật"
+      },
+      "name": {
+        "ko": "도시공학과",
+        "vi": "Kỹ thuật Đô thị"
+      },
+      "slogan": {
+        "ko": "국토 공간에 평등 · 안전 · 편리 · 쾌적한 도시 조성!",
+        "vi": "Xây dựng đô thị bình đẳng, an toàn, tiện lợi và dễ chịu trên khắp lãnh thổ!"
+      },
+      "description": {
+        "ko": "도시공학과는 주택, 교통, 환경문제와 같이 복잡한 도시와 지역의 문제 진단과 함께 해결 방안을 제시하고, 미래 지향적인 도시와 지역을 계획·건설·관리하는데 필요한 역량과 지식을 갖춘 도시공학 전문인을 양성하기 위해 1980년에 개설되어 많은 졸업생들이 국내뿐만 아니라 해외에서 쾌적한 도시와 지역을 만들어 가기 위해 공공 및 민간 부분에서 빛나는 활약을 펼쳐가고 있습니다.",
+        "vi": "Khoa Kỹ thuật Đô thị được thành lập năm 1980 nhằm đào tạo chuyên gia kỹ thuật đô thị có năng lực và kiến thức cần thiết để chẩn đoán và đưa ra giải pháp cho các vấn đề phức tạp của đô thị và vùng như nhà ở, giao thông, môi trường, cũng như quy hoạch, xây dựng và quản lý đô thị, vùng hướng tới tương lai. Nhiều cựu sinh viên đang hoạt động nổi bật ở khu vực công và tư nhân, không chỉ trong nước mà cả nước ngoài, để kiến tạo những đô thị và vùng dễ sống."
+      },
+      "careers": [
+        {
+          "category": "Khu vực công",
+          "detail": "Tổng công ty và cơ quan công (Tổng công ty Đường cao tốc, Tổng công ty Tài nguyên nước, Cơ quan Giao thông Đường bộ, Tổng công ty Môi trường, Cơ quan An toàn Giao thông, Tổng công ty LH, Tổng công ty Đường sắt đô thị, Korea Real Estate Board, Tổng công ty Phát triển Đô thị), công chức (Bộ Đất đai, Hạ tầng và Giao thông, Bộ Môi trường, chính quyền địa phương các cấp)"
+        },
+        {
+          "category": "Khu vực tư nhân",
+          "detail": "Công ty kỹ thuật lĩnh vực đô thị – giao thông – môi trường, công ty xây dựng, công ty phát triển bất động sản, tổ chức tài chính liên quan đến bất động sản…"
+        }
+      ],
+      "official": "https://www.yu.ac.kr/main/academics/urban.do"
+    },
+    {
+      "id": "pol",
+      "field": "social",
+      "college": {
+        "ko": "사회과학대학",
+        "vi": "Khoa học Xã hội"
+      },
+      "name": {
+        "ko": "정치외교학과",
+        "vi": "Chính trị và Ngoại giao"
+      },
+      "slogan": {
+        "ko": "미래 개척, 글로컬 리더의 요람",
+        "vi": "Khai phá tương lai, cái nôi của những nhà lãnh đạo glocal"
+      },
+      "description": {
+        "ko": "학과 설립연도 1947 정치외교학은 사회과학 분야에서 가장 오래된 학문 중 하나로서, 국내·외 정치 현상이나 국제 문제를 다룹니다. 4차 산업혁명과 포스트휴먼 시대에도 정치외교학은 인간 삶과 분리될 수 없습니다. 영남대학교 정치외교학과에서는 정치 현상에 대한 분석적·비판적 사고와 미래를 개척하는 능력을 배양하고 있으며, 영남대학교 역사의 시작과 함께 70년이 넘는 세월을 함께 해온 전통 깊은 학과입니다. 졸업 후 현실 정치에 참여하거나 공무원, 언론, 공기업, 사기업 및 시민사회 분야로 진출할 수 있습니다.",
+        "vi": "Năm thành lập: 1947 Chính trị và Ngoại giao là một trong những ngành lâu đời nhất của khoa học xã hội, nghiên cứu các hiện tượng chính trị trong nước, quốc tế và các vấn đề quốc tế. Ngay cả trong thời đại Cách mạng công nghiệp 4.0 và hậu nhân loại, chính trị – ngoại giao vẫn không thể tách rời khỏi đời sống con người. Khoa Chính trị và Ngoại giao của Đại học Yeungnam bồi dưỡng tư duy phân tích, phản biện về các hiện tượng chính trị và năng lực khai phá tương lai; là khoa có truyền thống lâu đời, đồng hành hơn 70 năm cùng lịch sử Đại học Yeungnam từ những ngày đầu. Sau khi tốt nghiệp, sinh viên có thể tham gia chính trị thực tiễn hoặc làm việc trong lĩnh vực công chức, báo chí, doanh nghiệp nhà nước, doanh nghiệp tư nhân và xã hội dân sự."
+      },
+      "careers": [
+        {
+          "category": "Báo chí và doanh nghiệp",
+          "detail": ""
+        },
+        {
+          "category": "Khu vực công và xã hội dân sự",
+          "detail": ""
+        },
+        {
+          "category": "Tổ chức quốc tế và ngoại giao",
+          "detail": ""
+        }
+      ],
+      "official": "https://www.yu.ac.kr/main/academics/pol.do"
+    },
+    {
+      "id": "pa",
+      "field": "social",
+      "college": {
+        "ko": "사회과학대학",
+        "vi": "Khoa học Xã hội"
+      },
+      "name": {
+        "ko": "행정학과",
+        "vi": "Khoa Hành chính"
+      },
+      "slogan": {
+        "ko": "미래사회 트렌드와 공직사회를 이끄는, 내일을 가장 먼저 만들어가는 인재의 요람",
+        "vi": "Cái nôi của những nhân tài đi đầu kiến tạo ngày mai, dẫn dắt xu hướng xã hội tương lai và khu vực công"
+      },
+      "description": {
+        "ko": "영남대학교 행정학과는 우리나라에서 행정학과로는 두 번째로 개설된 역사와 전통이 있는 학과입니다. 전국의 행정학과 중에서 공직 진출자 배출이 가장 많은 학과 중 하나이며 현재도 매년 100여 명 전후의 공무원을 배출하고 있습니다.",
+        "vi": "Khoa Hành chính của Đại học Yeungnam là khoa có lịch sử và truyền thống, được mở thứ hai trong số các khoa hành chính ở Hàn Quốc. Trong số các khoa hành chính trên cả nước, đây là một trong những khoa có nhiều cựu sinh viên vào ngạch công chức nhất, hiện mỗi năm vẫn có khoảng 100 người trở thành công chức."
+      },
+      "careers": [
+        {
+          "category": "Lĩnh vực công vụ",
+          "detail": "Kỳ thi hành chính cao cấp, công chức quốc gia và địa phương ngạch 7 / 9"
+        },
+        {
+          "category": "Lĩnh vực doanh nghiệp nhà nước",
+          "detail": "Các doanh nghiệp nhà nước liên quan như Tổng công ty Đường cao tốc Hàn Quốc, Tổng công ty Tài nguyên nước Hàn Quốc"
+        },
+        {
+          "category": "Học lên cao học",
+          "detail": "Cao học hành chính công, trường luật, du học nước ngoài"
+        },
+        {
+          "category": "Khác",
+          "detail": "NGO, cơ quan báo chí, tổ chức tài chính, doanh nghiệp thông thường, viện đào tạo"
+        }
+      ],
+      "official": "https://www.yu.ac.kr/main/academics/pa.do"
+    },
+    {
+      "id": "psy",
+      "field": "social",
+      "college": {
+        "ko": "사회과학대학",
+        "vi": "Khoa học Xã hội"
+      },
+      "name": {
+        "ko": "심리학과",
+        "vi": "Tâm lý học"
+      },
+      "slogan": {
+        "ko": "인간의 마음과 행동을 과학적으로 탐구하는 곳, 심리학과 !",
+        "vi": "Nơi nghiên cứu khoa học về tâm trí và hành vi con người – Tâm lý học!"
+      },
+      "description": {
+        "ko": "심리학과는 인간의 마음과 행동을 과학적으로 연구하며 사회과학의 다양한 분야에서 축적된 지식과 융합하여 개인과 사회현상을 폭 넓게 이해하는 데 도움을 주고 있습니다. 따라서 심리학과는 기본적으로 과학적 실험과 연구방법론에 바탕을 두고 있으며 개인과 집단의 사고, 정서, 행동을 탐색적으로 연구하고자 한다는 점에서 다른 학문들과 구분됩니다. 심리학과는 크게 기초와 응용 영역으로 구성되어 있으며 기초 심리학 과정은 인지, 지각, 학습, 생물, 언어, 사회 관련 심리학을 응용 심리학 과정은 임상, 상담, 건강, 범죄/법 관련 심리학 주제를 포괄적으로 다루고 있습니다.",
+        "vi": "Khoa Tâm lý học nghiên cứu khoa học về tâm trí và hành vi con người, kết hợp với tri thức tích lũy từ nhiều lĩnh vực của khoa học xã hội để giúp hiểu rộng các hiện tượng cá nhân và xã hội. Vì vậy, tâm lý học về cơ bản dựa trên thực nghiệm khoa học và phương pháp luận nghiên cứu, khác với các ngành khác ở chỗ nghiên cứu mang tính khám phá về tư duy, cảm xúc và hành vi của cá nhân và nhóm. Khoa gồm hai mảng lớn là cơ bản và ứng dụng: tâm lý học cơ bản bao gồm tâm lý học nhận thức, tri giác, học tập, sinh học, ngôn ngữ, xã hội; tâm lý học ứng dụng bao quát các chủ đề lâm sàng, tư vấn, sức khỏe, tội phạm / pháp luật."
+      },
+      "careers": [
+        {
+          "category": "",
+          "detail": "Người học chuyên ngành tâm lý lâm sàng làm công việc đánh giá và điều trị những người gặp khó khăn tâm lý trong nhiều môi trường như bệnh viện, trường học, doanh nghiệp, trung tâm tư vấn, trung tâm sức khỏe tâm thần cộng đồng."
+        },
+        {
+          "category": "",
+          "detail": "Người học chuyên ngành tâm lý tư vấn thực hiện các hoạt động tư vấn như tư vấn cá nhân, tư vấn gia đình, tư vấn nhóm."
+        },
+        {
+          "category": "",
+          "detail": "Người học chuyên ngành tâm lý nhận thức làm việc tại doanh nghiệp và viện nghiên cứu trong các lĩnh vực nhận thức, học tập, não bộ và trí tuệ nhân tạo đang rất được quan tâm hiện nay."
+        },
+        {
+          "category": "",
+          "detail": "Người học chuyên ngành tâm lý tội phạm làm các công việc liên quan đến tội phạm và điều tra như lập hồ sơ tội phạm, bảo vệ nạn nhân."
+        }
+      ],
+      "official": "https://www.yu.ac.kr/main/academics/psy.do"
+    },
+    {
+      "id": "finearts",
+      "field": "arts",
+      "college": {
+        "ko": "예술대학",
+        "vi": "Nghệ thuật"
+      },
+      "name": {
+        "ko": "회화과",
+        "vi": "Khoa Hội họa"
+      },
+      "slogan": {
+        "ko": "미래의 융복합 시대를 이끌어갈 창조적 예술인재의 양성",
+        "vi": "Đào tạo nhân tài nghệ thuật sáng tạo dẫn dắt thời đại liên ngành tương lai"
+      },
+      "description": {
+        "ko": "회화과는 동서양의 다양한 재료와 기법을 숙련하는 실습에 주력하면서, 판화와 사진, 영상과 설치의 여러 가지 매체와 미디어 수업을 병행합니다. 또한 한국과 동서양의 회화적 전통에 관한 심도 깊은 이론교육, 동시대 미술의 흐름과 현장에 관한 폭넓은 이해를 토대로 미래의 융복합 시대를 이끌어갈 창조적 예술인재를 양성하고 있습니다.",
+        "vi": "Khoa Hội họa tập trung vào thực hành thành thạo các chất liệu và kỹ thuật đa dạng của phương Đông và phương Tây, song song với các lớp về nhiều phương tiện và truyền thông như tranh in, nhiếp ảnh, video và sắp đặt. Ngoài ra, trên nền tảng giáo dục lý thuyết chuyên sâu về truyền thống hội họa Hàn Quốc và Đông – Tây, cùng hiểu biết rộng về xu hướng và hiện trường mỹ thuật đương đại, khoa đào tạo nhân tài nghệ thuật sáng tạo dẫn dắt thời đại liên ngành tương lai."
+      },
+      "careers": [
+        {
+          "category": "",
+          "detail": "Chuyên gia bảo tồn di sản văn hóa, học cao học, nghệ sĩ chuyên nghiệp, giáo viên mỹ thuật trung học, giảng viên lớp sau giờ học, giảng viên trung tâm luyện thi mỹ thuật, giảng viên trung tâm văn hóa, đạo diễn mỹ thuật điện ảnh, nhà thiết kế sân khấu, nhà thiết kế quảng cáo, chuyên viên trị liệu bằng mỹ thuật, nhà phê bình mỹ thuật, người tổ chức triển lãm, nghiên cứu viên giám tuyển tại bảo tàng mỹ thuật và bảo tàng, giám tuyển độc lập, art director, người lên kế hoạch văn hóa…"
+        }
+      ],
+      "official": "https://www.yu.ac.kr/main/academics/finearts.do"
+    },
+    {
+      "id": "transart",
+      "field": "arts",
+      "college": {
+        "ko": "예술대학",
+        "vi": "Nghệ thuật"
+      },
+      "name": {
+        "ko": "트랜스아트과",
+        "vi": "Nghệ thuật truyền thông"
+      },
+      "slogan": {
+        "ko": "트랜스아트과(융복합예술)는 동시대의 다양한 예술 활동들을 횡단하고 초월하는 융복합 예술을 선도합니다.",
+        "vi": "Khoa Nghệ thuật truyền thông (nghệ thuật liên ngành) dẫn đầu nghệ thuật liên ngành, vượt qua và kết nối các hoạt động nghệ thuật đa dạng của thời đại."
+      },
+      "description": {
+        "ko": "‘초월’과 ‘횡단’을 의미하는 ‘트랜스(trans)’와 ‘예술(art)’이 결합된 ‘트랜스아트(Transart)’는 과학 기술과 결합하여 다양하게 전개되는 동시대 예술 활동들을 포괄합니다. 사진과 영상, 뉴 미디어 아트 및 최근 4차 산업혁명에서 제기되는 인공지능에 이르기까지 전통적인 예술 매체들과 디지털 기술의 융복합적 커리큘럼을 준비하고 있습니다. 이러한 교육을 중심으로 트랜스아트과는 이론과 실기의 통합교육, 현장 중심의 전문 교육 및 타인과 소통하는 인성교육, 지역 사회와의 연계교육, 국제적인 교류 활동을 통해 21세기의 비전을 제시하는 글로벌 인재 육성을 시도합니다.",
+        "vi": "'Transart' – sự kết hợp của 'trans' (mang nghĩa 'vượt qua' và 'xuyên suốt') với 'art' (nghệ thuật) – bao quát các hoạt động nghệ thuật đương đại đa dạng kết hợp với khoa học công nghệ. Khoa xây dựng chương trình học hội tụ giữa các phương tiện nghệ thuật truyền thống và công nghệ số, từ nhiếp ảnh, video, nghệ thuật truyền thông mới đến trí tuệ nhân tạo của Cách mạng công nghiệp 4.0. Lấy đó làm trọng tâm, Khoa Nghệ thuật truyền thông hướng tới đào tạo nhân tài toàn cầu đề ra tầm nhìn cho thế kỷ 21 thông qua giáo dục tích hợp lý thuyết và thực hành, đào tạo chuyên môn gắn với hiện trường, giáo dục nhân cách biết giao tiếp với người khác, giáo dục gắn với cộng đồng địa phương và các hoạt động giao lưu quốc tế."
+      },
+      "careers": [
+        {
+          "category": "",
+          "detail": "Học cao học, nghệ sĩ chuyên nghiệp, nghệ sĩ sáng tạo chế tác công trình điêu khắc công cộng, giáo viên mỹ thuật trung học, giảng viên mỹ thuật và nhiếp ảnh (lớp sau giờ học, mẫu giáo, trung tâm mỹ thuật thiếu nhi, trung tâm luyện thi mỹ thuật, trung tâm văn hóa), đạo diễn mỹ thuật điện ảnh, nhà thiết kế sân khấu, nhà thiết kế quảng cáo, đạo diễn hình ảnh, nhà sản xuất báo chí – truyền hình, chuyên viên trị liệu bằng mỹ thuật, nhà phê bình mỹ thuật, người tổ chức triển lãm, nghiên cứu viên giám tuyển tại bảo tàng mỹ thuật và bảo tàng, giám tuyển độc lập, art director, người lên kế hoạch văn hóa, nhiếp ảnh gia tại doanh nghiệp ngành nhiếp ảnh"
+        }
+      ],
+      "official": "https://www.yu.ac.kr/main/academics/transart.do"
+    },
+    {
+      "id": "vd",
+      "field": "arts",
+      "college": {
+        "ko": "예술대학",
+        "vi": "Nghệ thuật"
+      },
+      "name": {
+        "ko": "시각디자인학과",
+        "vi": "Thiết kế đồ họa"
+      },
+      "slogan": {
+        "ko": "융합 패러다임을 이끌고 실천하는 창의적 디자이너의 요람",
+        "vi": "Cái nôi của những nhà thiết kế sáng tạo dẫn dắt và thực hiện mô hình hội tụ"
+      },
+      "description": {
+        "ko": "시각디자인은 다양한 정보의 전달과 효율적 커뮤니케이션을 위해 이미지와 텍스트의 관계를 탐구하고 시각화하는 전문분야이다. 전공분야는 그래픽디자인, 브랜드디자인, 편집출판디자인, 영상디자인, 멀티미디어디자인, UX/UI디자인 등으로 구성되어 있으며 이에 대한 실기와 이론 교과목을 편성하고 있다. 영남대학교 시각디자인학과는 융합형디자인대학, 문화융합디자인(교육부 CK-1사업) 특성화를 통해 지역의 디자인-산업-문화의 미래가치 발굴을 선도해왔으며, 지역 거점 디자인학과로 자리잡았다.",
+        "vi": "Thiết kế đồ họa (thị giác) là lĩnh vực chuyên môn nghiên cứu và trực quan hóa mối quan hệ giữa hình ảnh và văn bản để truyền tải thông tin đa dạng và giao tiếp hiệu quả. Chuyên ngành gồm thiết kế đồ họa, thiết kế thương hiệu, thiết kế biên tập – xuất bản, thiết kế video, thiết kế đa phương tiện, thiết kế UX/UI…, với các môn thực hành và lý thuyết tương ứng. Thông qua đặc thù hóa Trường Thiết kế hội tụ và Thiết kế hội tụ văn hóa (dự án CK-1 của Bộ Giáo dục), khoa đã dẫn đầu việc khai thác giá trị tương lai của thiết kế – công nghiệp – văn hóa địa phương và trở thành khoa thiết kế trọng điểm của khu vực."
+      },
+      "careers": [
+        {
+          "category": "Thiết kế",
+          "detail": "Công ty chuyên thiết kế (thiết kế đồ họa, thương hiệu, biên tập – xuất bản, video, đa phương tiện, UX/UI), phòng thiết kế của doanh nghiệp"
+        },
+        {
+          "category": "Ngành giáo dục",
+          "detail": "Giáo viên, giảng viên đại học"
+        },
+        {
+          "category": "Khởi nghiệp",
+          "detail": "Studio thiết kế"
+        },
+        {
+          "category": "Học lên cao học",
+          "detail": "Thạc sĩ, tiến sĩ, liên thông thạc sĩ – tiến sĩ"
+        }
+      ],
+      "official": "https://www.yu.ac.kr/main/academics/vd.do"
+    }
+  ]
+}

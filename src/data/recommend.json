@@ -1,0 +1,35 @@
+{
+  "questions": [
+    {
+      "id": "interest",
+      "text": "Bạn thích làm việc với điều gì nhất?",
+      "options": [
+        { "label": "Ngôn ngữ, văn hóa, con người", "score": { "humanities": 2, "social": 1 } },
+        { "label": "Con số, công thức, thí nghiệm", "score": { "science": 2, "engineering": 1 } },
+        { "label": "Máy móc, công trình, công nghệ", "score": { "engineering": 2, "science": 1 } },
+        { "label": "Vẽ, thiết kế, biểu diễn", "score": { "arts": 2, "humanities": 1 } },
+        { "label": "Xã hội, chính sách, tâm lý", "score": { "social": 2, "humanities": 1 } }
+      ]
+    },
+    {
+      "id": "style",
+      "text": "Bạn học tốt nhất theo cách nào?",
+      "options": [
+        { "label": "Đọc và viết nhiều", "score": { "humanities": 1, "social": 1 } },
+        { "label": "Giải bài tập, phân tích dữ liệu", "score": { "science": 1, "engineering": 1 } },
+        { "label": "Tự tay làm ra sản phẩm", "score": { "arts": 1, "engineering": 1 } }
+      ]
+    },
+    {
+      "id": "career",
+      "text": "Sau khi tốt nghiệp, bạn muốn làm gì?",
+      "options": [
+        { "label": "Giáo viên, phiên dịch, biên tập", "score": { "humanities": 2 } },
+        { "label": "Công chức, nhà tư vấn, nhà báo", "score": { "social": 2 } },
+        { "label": "Nghiên cứu viên, chuyên viên dữ liệu", "score": { "science": 2 } },
+        { "label": "Kỹ sư, chuyên gia xây dựng – môi trường", "score": { "engineering": 2 } },
+        { "label": "Họa sĩ, nhà thiết kế, nghệ sĩ", "score": { "arts": 2 } }
+      ]
+    }
+  ]
+}

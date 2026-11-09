@@ -1,0 +1,7 @@
+[
+  { "id": "humanities",  "label": "Khối Nhân văn",             "ko": "인문계열",     "icon": "📖", "color": "from-amber-400 to-orange-500" },
+  { "id": "social",      "label": "Khối Xã hội",               "ko": "사회계열",     "icon": "🏛️", "color": "from-sky-400 to-blue-600" },
+  { "id": "science",     "label": "Khối Khoa học tự nhiên",    "ko": "자연과학계열", "icon": "🔬", "color": "from-emerald-400 to-teal-600" },
+  { "id": "engineering", "label": "Khối Kỹ thuật",             "ko": "공학계열",     "icon": "⚙️", "color": "from-indigo-400 to-violet-600" },
+  { "id": "arts",        "label": "Khối Nghệ thuật",           "ko": "예체능계열",   "icon": "🎨", "color": "from-pink-400 to-rose-600" }
+]
