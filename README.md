@@ -12,23 +12,46 @@
 | **GitHub Actions** | Tự build và đưa lên mạng mỗi lần bạn push code |
 | **GitHub Pages** | Hosting miễn phí, địa chỉ `https://<username>.github.io/<repo>/` |
 
+## Tính năng
+
+| Trang | Địa chỉ | Có gì |
+|---|---|---|
+| Trang chủ | `#/` | Ô tìm kiếm, lịch tuyển sinh tự đổi trạng thái theo ngày, tab theo khối ngành |
+| Ngành học | `#/departments` | Tìm kiếm không dấu, song ngữ; lọc theo khối, trường, hình thức tuyển (bộ lọc lưu trên địa chỉ trang) |
+| Chi tiết ngành | `#/department/<id>` | Giới thiệu, chuyên ngành, chương trình theo năm, việc làm, chứng chỉ, hoạt động, hình thức tuyển |
+| Gợi ý ngành | `#/recommend` | 3 câu hỏi → khối ngành phù hợp + danh sách ngành |
+| Tuyển sinh | `#/admissions` | Lịch nộp hồ sơ, link nộp online, học bổng, chuẩn TOPIK tốt nghiệp, liên hệ, có ghi nguồn |
+
+- **Thẻ xem nhanh:** trên máy tính, rê chuột lên thẻ ngành 0,25 giây sẽ mở thẻ rộng gấp đôi (tự mở sang trái nếu sát mép phải). Trên điện thoại, chạm vào thẻ là vào thẳng trang chi tiết.
+- **Song ngữ Việt – Hàn:** nút VI / 한 ở góc trên. Ngôn ngữ được ghi nhớ cho lần sau.
+
+## Nguồn dữ liệu
+
+| Dữ liệu | Nguồn | File |
+|---|---|---|
+| 59 ngành nhận du học sinh | Trang ngành của trường: yu.ac.kr/main/academics (thu thập sẵn trong dự án mở [yu-vn-majors](https://github.com/22600410-ui/yu-vn-majors)) | `data/source-departments.json` → chạy `python3 scripts/prepare_data.py` → `public/data/departments.json` |
+| Lịch tuyển sinh, link nộp hồ sơ, hướng dẫn PDF | [yu.ac.kr/isa](https://www.yu.ac.kr/isa/index.do) | `src/data/admissions.json` |
+| Học bổng du học sinh | [yu.ac.kr/issh/academics/scholarships.do](https://www.yu.ac.kr/issh/academics/scholarships.do) | `src/data/admissions.json` |
+
+Thông tin tuyển sinh thay đổi mỗi kỳ: trước mỗi đợt, hãy kiểm tra lại các trang trên và sửa `src/data/admissions.json` (ngày kiểm tra ghi ở `checkedAt`).
+
 ## Cấu trúc thư mục
 
 ```
 yu-majors-mini/
 ├─ .github/workflows/deploy.yml   # Tự động build + deploy lên GitHub Pages
-├─ index.html                     # Khung HTML, React gắn vào <div id="root">
+├─ data/source-departments.json   # Dữ liệu ngành gốc
+├─ scripts/prepare_data.py        # Chuẩn hóa dữ liệu gốc → public/data/departments.json
+├─ public/data/departments.json   # Dữ liệu web tải về khi chạy
 ├─ vite.config.js                 # ★ base: '/<tên-repo>/'
-├─ tailwind.config.js             # Màu thương hiệu (yu), font chữ
-├─ public/data/departments.json   # Dữ liệu ngành học (web tải về khi chạy)
 └─ src/
-   ├─ main.jsx                    # Điểm khởi đầu
-   ├─ App.jsx                     # Header, menu, định tuyến các trang
-   ├─ data/fields.json            # Các khối ngành (màu, biểu tượng)
-   ├─ data/recommend.json         # Câu hỏi + điểm cho trang Gợi ý
-   ├─ hooks/useDepartments.js     # Tải departments.json
-   ├─ components/DepartmentCard.jsx
-   └─ pages/                      # Home, Departments, DepartmentDetail, Recommend
+   ├─ i18n.jsx                    # Song ngữ: từ điển chữ giao diện + hàm L({vi, ko})
+   ├─ App.jsx                     # Header, nút đổi ngôn ngữ, định tuyến, footer
+   ├─ data/                       # fields (khối ngành), recommend (câu hỏi), admissions (tuyển sinh)
+   ├─ hooks/useDepartments.js     # Tải dữ liệu ngành (1 lần, dùng chung)
+   ├─ utils/                      # text (bỏ dấu, cắt câu), schedule (trạng thái đợt tuyển)
+   ├─ components/                 # DepartmentCard (+ thẻ xem nhanh), Thumb, AdmissionBadges, RoundsCard
+   └─ pages/                      # Home, Departments, DepartmentDetail, Recommend, Admissions
 ```
 
 ## Cách 1: Đưa lên GitHub hoàn toàn trên trình duyệt (không cài gì)

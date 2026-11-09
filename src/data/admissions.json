@@ -1,0 +1,61 @@
+{
+  "_comment": "Thông tin tuyển sinh du học sinh hệ đại học. Mỗi mục đều ghi nguồn. Kiểm tra lại trên trang chính thức trước mỗi kỳ tuyển sinh.",
+  "checkedAt": "2026-11-09",
+  "term": { "vi": "Học kỳ 1 năm 2027 (kỳ xuân)", "ko": "2027학년도 1학기" },
+  "rounds": [
+    { "name": { "vi": "Đợt 1", "ko": "1차" }, "start": "2026-10-12", "end": "2026-11-11", "endTime": "17:00" },
+    { "name": { "vi": "Đợt 2", "ko": "2차" }, "start": "2026-12-09", "end": "2027-01-06", "endTime": "17:00" }
+  ],
+  "applyLinks": [
+    { "label": { "vi": "Nộp hồ sơ năm nhất (tân sinh viên)", "ko": "신입학 원서접수" }, "url": "https://ipsi1.uwayapply.com/2027/foreign/yu/?CHA=1" },
+    { "label": { "vi": "Nộp hồ sơ liên thông (năm 2, 3)", "ko": "편입학 원서접수" }, "url": "https://ipsi1.uwayapply.com/2027/foreign/yu/?CHA=2" }
+  ],
+  "guides": [
+    { "label": { "vi": "Hướng dẫn tuyển sinh – tiếng Việt", "ko": "모집요강 – 베트남어" }, "url": "https://www.yu.ac.kr/cms/etcResourceOpen.do?site=%24cms%24JYZwhkA&key=%24cms%24EwBmHYFoEYAIDUCSBRAKgOgA4BMBmQ" },
+    { "label": { "vi": "Hướng dẫn tuyển sinh – tiếng Hàn", "ko": "모집요강 – 한국어" }, "url": "https://www.yu.ac.kr/cms/etcResourceOpen.do?site=%24cms%24JYZwhkA&key=%24cms%24EwBmHYFoEYAIGkDyAlAdABwCYDMg" },
+    { "label": { "vi": "Hướng dẫn tuyển sinh – tiếng Anh", "ko": "모집요강 – 영어" }, "url": "https://www.yu.ac.kr/cms/etcResourceOpen.do?site=%24cms%24JYZwhkA&key=%24cms%24EwBmHYFoEYAIFEByBxAdABwCYDMg" }
+  ],
+  "steps": [
+    { "vi": "Đọc kỹ hướng dẫn tuyển sinh (có bản tiếng Việt): điều kiện, hồ sơ cần nộp, lệ phí.", "ko": "모집요강(베트남어판 제공)에서 지원 자격, 제출 서류, 전형료를 확인합니다." },
+    { "vi": "Chọn ngành trên web này, kiểm tra ngành có tuyển năm nhất hay liên thông.", "ko": "이 사이트에서 학과를 고르고 신입학·편입학 모집 여부를 확인합니다." },
+    { "vi": "Nộp hồ sơ trực tuyến trong thời gian của đợt tuyển.", "ko": "모집 기간 내에 온라인으로 원서를 접수합니다." },
+    { "vi": "Theo dõi thông báo và kết quả trên trang tuyển sinh du học sinh của trường.", "ko": "유학생입학팀 홈페이지에서 공지와 합격자 발표를 확인합니다." }
+  ],
+  "freshmanScholarships": {
+    "note": { "vi": "Áp dụng từ học kỳ 1 năm 2027, xét theo trình độ tiếng Hàn khi nhập học.", "ko": "2027학년도 1학기부터 적용, 입학 시 한국어 능력 기준." },
+    "rows": [
+      { "rate": "100%", "rule": { "vi": "TOPIK cấp 5 trở lên", "ko": "TOPIK 5급 이상" } },
+      { "rate": "80%",  "rule": { "vi": "TOPIK cấp 4 trở lên, hoặc hoàn thành Trung cấp 2 của Viện King Sejong trở lên", "ko": "TOPIK 4급 이상 또는 세종학당 중급 2 이상 수료" } },
+      { "rate": "60%",  "rule": { "vi": "TOPIK cấp 3 trở lên", "ko": "TOPIK 3급 이상" } },
+      { "rate": "50%",  "rule": { "vi": "Đạt mức tiếng Hàn theo quy định, không thuộc các mức trên", "ko": "위 기준에 해당하지 않으나 일정 한국어 기준 충족" } }
+    ],
+    "source": "https://www.yu.ac.kr/issh/academics/scholarships.do"
+  },
+  "currentScholarships": {
+    "note": { "vi": "Cần đạt cả điều kiện TOPIK và điểm trung bình học kỳ trước. Chỉ cấp trong thời gian học chuẩn (8 học kỳ với tân sinh viên, 6 với liên thông năm 2, 4 với liên thông năm 3).", "ko": "한국어 능력과 직전 학기 평점을 모두 충족해야 하며, 수업연한(신입생 8학기, 2학년 편입 6학기, 3학년 편입 4학기) 내에서만 지급합니다." },
+    "rows": [
+      { "rate": "100%", "topik": "5", "gpa": "4.0" },
+      { "rate": "80%",  "topik": "4", "gpa": "4.0" },
+      { "rate": "60%",  "topik": "4", "gpa": "3.5" },
+      { "rate": "50%",  "topik": "4", "gpa": "3.0" },
+      { "rate": "30%",  "topik": "3", "gpa": "3.0" },
+      { "rate": "20%",  "topik": "-", "gpa": "2.5" }
+    ],
+    "source": "https://www.yu.ac.kr/issh/academics/scholarships.do"
+  },
+  "graduation": {
+    "vi": "Từ học kỳ 2 năm 2026, du học sinh hệ đại học cần TOPIK cấp 4 trở lên để tốt nghiệp. Một số ngành áp dụng cấp 3, ví dụ khối nghệ thuật – thể thao (nhập học trước 3/2026), Hóa học, Kỹ thuật môi trường, Kiến trúc, Cơ khí, Điện, Điện tử, Máy tính… Xem danh sách đầy đủ trong thông báo của trường.",
+    "ko": "2026학년도 2학기부터 학부 외국인 유학생은 TOPIK 4급 이상을 취득해야 졸업할 수 있습니다. 예체능 계열(2026년 3월 이전 입학자), 화학과, 환경공학과, 건축학부, 기계공학부, 전기공학과, 전자공학과, 컴퓨터학부 등 일부 학과는 3급이 적용됩니다. 전체 목록은 학교 공지를 확인하세요.",
+    "source": "https://www.yu.ac.kr/issh/"
+  },
+  "contacts": [
+    { "label": { "vi": "Phòng tuyển sinh du học sinh – tư vấn tiếng Việt", "ko": "유학생입학팀 – 베트남어 상담" }, "value": "+82-53-810-7993" },
+    { "label": { "vi": "Email tuyển sinh", "ko": "입학 문의 이메일" }, "value": "admission@yu.ac.kr" },
+    { "label": { "vi": "Phòng học vụ du học sinh (học bổng)", "ko": "유학생학사팀 (장학)" }, "value": "yuiss@yu.ac.kr" }
+  ],
+  "sources": [
+    { "label": "Yeungnam University – 유학생입학팀 (International Admissions)", "url": "https://www.yu.ac.kr/isa/index.do" },
+    { "label": "Yeungnam University – 유학생지원본부: Scholarships", "url": "https://www.yu.ac.kr/issh/academics/scholarships.do" },
+    { "label": "Yeungnam University – 유학생지원본부 (thông báo chuẩn tốt nghiệp)", "url": "https://www.yu.ac.kr/issh/" }
+  ]
+}
